@@ -481,12 +481,9 @@ At most N threads are allowed to access a certain resource. We want to keep trac
 
 This yields the following...
 
-```c
-int count = 0;
-sem countSem;
-sem mutex;
+(((update me)))
 
+## 06 - Deadlocks
 
-
-```
+![image](https://i.imgur.com/08fgfs0.png "Deadlocks table")
 
